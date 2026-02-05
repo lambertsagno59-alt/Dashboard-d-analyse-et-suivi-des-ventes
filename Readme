@@ -18,8 +18,8 @@ Ce projet présente un tableau de bord interactif conçu pour analyser la perfor
 ## 📊 Aperçu du Dashboard
 
 | Page 1 : Suivi Global | Page 2 : Analyse des Annulations |
-| :--- | :--- |
-| ![Suivi des Ventes](Screenshots/page1.jpg) | ![Analyse des Annulations](Screenshots/page2.jpg) |
+| :---: | :---: |
+| ![Page 1](Screenshots/page1.jpg) | ![Page 2](Screenshots/page2.jpg) |
 
 ## 📁 Structure du Dépôt
 * `/Data` : Contient le fichier source des ventes.
