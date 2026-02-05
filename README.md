@@ -26,7 +26,7 @@ Ce projet présente un tableau de bord interactif conçu pour analyser la perfor
 * `/Dashboard` : Contient le fichier `.pbix` (Power BI).
 * `/Screenshots` : Captures d'écran (`page1.jpg`, `page2.jpg`) pour la documentation.
 
-## 💡 Installation et Utilisation
-1. Clonez le dépôt : `git clone https://github.com/votre-nom/votre-projet.git`
-2. Ouvrez le fichier `Tableau de bord d'analyse et de suivi des ventes.pbix` avec **Power BI Desktop**.
-3. Explorez les rapports via les filtres interactifs situés en haut de chaque page.
+## 🙏 Remerciements
+Ce projet a été réalisé dans le cadre de la formation Power BI de **Sébastien Daviot** sur YouTube. 
+* Un grand merci à lui pour le partage de son expertise et pour avoir fourni la **base de données** utilisée dans cet exercice.
+* Vous pouvez retrouver sa chaîne ici : [Sébastien Daviot - YouTube](https://www.youtube.com/@SebastienDaviot)
